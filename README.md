@@ -26,7 +26,7 @@ Food Delivery website with the easy to understand and fluid UI
 
 
 
-# Namaste Food
+
 
 
 /**
@@ -38,7 +38,7 @@ Food Delivery website with the easy to understand and fluid UI
  *  - RestaurantContainer
  *    - RestaurantCard
  *      - Img
- *      - Name of Res, Star Rating, cuisine, delery tie
+ *      - Name of Res, Star Rating, cuisine, delivery tie
  * Footer
  *  - Copyright
  *  - Links
